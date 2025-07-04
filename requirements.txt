@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+openai
+whisper
+faiss-cpu
+sentence-transformers
+tts
