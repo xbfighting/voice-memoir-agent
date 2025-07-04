@@ -81,7 +81,7 @@ uvicorn app:app --reload
 
 #### 效果
 
-[1]: https://raw.githubusercontent.com/xbfighting/voice-memoir-agent/master/images/run-app.jpg
+![运行效果](images/run-app.jpg)
 
 ### 5. Test with cURL or Postman
 
@@ -95,7 +95,7 @@ curl -X POST "http://localhost:8000/memoir" \
 
 #### 效果
 
-[2]: https://raw.githubusercontent.com/xbfighting/voice-memoir-agent/master/images/server-test.jpg
+![接口测试](images/server-test.jpg)
 
 ---
 
